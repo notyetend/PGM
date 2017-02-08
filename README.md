@@ -6,18 +6,18 @@ Text   : "Daphne Koller & Nir Friedman, Probabilistic Graphical Models: Principl
 
 #####[Course1]     
 <a href="https://rawgit.com/notyetend/PGM/master/notes/PGM_Course1_Week1.html">Week1</a>       
-	Introduction and Overview       
-	Bayesian Network Fundamentals       
-	Bayesian Networks: Independencies      
-	Bayesian Networks: Knowledge Engineering      
+- Introduction and Overview       
+- Bayesian Network Fundamentals       
+- Bayesian Networks: Independencies      
+- Bayesian Networks: Knowledge Engineering      
 	
 Week2       
-	Template Models       
-	Structured CPDs     
+- Template Models       
+- Structured CPDs     
 	
-Week3
-Week4
-Week5
+Week3      
+Week4      
+Week5    
 
 
 #####[Course2]
