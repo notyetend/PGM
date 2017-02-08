@@ -4,7 +4,7 @@
 Course : https://www.coursera.org/learn/probabilistic-graphical-models/home      
 Text   : "Daphne Koller & Nir Friedman, Probabilistic Graphical Models: Principles and Techniques", 2009
 
-######[Course1]     
+#####[Course1]     
 <a href="https://rawgit.com/notyetend/PGM/master/notes/PGM_Course1_Week1.html">Week1</a>       
 	Introduction and Overview       
 	Bayesian Network Fundamentals       
@@ -14,3 +14,22 @@ Text   : "Daphne Koller & Nir Friedman, Probabilistic Graphical Models: Principl
 Week2       
 	Template Models       
 	Structured CPDs     
+	
+Week3
+Week4
+Week5
+
+
+#####[Course2]
+Week1
+Week2
+Week3
+Week4
+Week5
+
+#####[Course3]  
+Week1
+Week2
+Week3
+Week4
+Week5
